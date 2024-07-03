@@ -1,0 +1,2 @@
+This is the first line of feature1.txt
+This is the second line of feature1.txt
