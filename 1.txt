@@ -1,2 +1,1 @@
-This is the first line of 1.txt.
-This is the second line of 1.txt.
+
