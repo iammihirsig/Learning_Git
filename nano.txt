@@ -1,1 +1,1 @@
-this is nano on line 1 (old commit)
+This is new nano from new_branch (new commit)
